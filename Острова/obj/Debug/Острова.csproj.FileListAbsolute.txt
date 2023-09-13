@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Острова\Острова\bin\Debug\Острова.exe.config
+C:\Users\HP\source\repos\Острова\Острова\bin\Debug\Острова.exe
+C:\Users\HP\source\repos\Острова\Острова\bin\Debug\Острова.pdb
+C:\Users\HP\source\repos\Острова\Острова\obj\Debug\Острова.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Острова\Острова\obj\Debug\Острова.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Острова\Острова\obj\Debug\Острова.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Острова\Острова\obj\Debug\Острова.exe
+C:\Users\HP\source\repos\Острова\Острова\obj\Debug\Острова.pdb
